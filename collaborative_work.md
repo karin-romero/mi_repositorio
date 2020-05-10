@@ -1,7 +1,13 @@
 # Summary of Activity 1
 
 
-## Web Neutrality by Participant 1 : Jamil Merchan
+## Web Neutrality by Participant 1 : 
+Ventajas de la neutralidad de la web
+La neutralidad de la red implica que el tráfico de contenidos en internet sea tratado de igual manera por los proveedores, sin privilegiar un sitio o empresa sobre otra. 
+ventajas 
+Las ventajas son obvias, evidentes: basta con ver cómo ha evolucionado Internet los últimos 20-25 años para comprobar, sin duda alguna, que la neutralidad de la red ha sido un factor clave en el desarrollo del modelo de Internet que tenemos hoy. A día de hoy cuesta recordarlo, pero en su momento empresas como Yahoo!, Google, eBay, Amazon, Netflix, etcétera, fueron el pez más pequeño de la pecera. Así pues, ¿qué habría pasado si, a golpe de talonario, las que entonces eran «las grandes» hubieran pagado por lograr que su tráfico de Internet fuera priorizado con respeto al resto? Es fácil de imaginar: The Microsoft Network (por poner solo un ejemplo) habría sido un gran éxito, y no un fiasco para los de Redmond.
+desventajas
+Así pues, lo único que está claro es que, quienes salen ganando con este cambio son las operadoras. Ahora habrá que esperar para ver qué pasos dan estas, y si consiguen encontrar el equilibrio entre respetar razonablemente la naturaleza de Internet desde que ésta existe, y sacar partido a su nueva y ventajosa situación. Los próximos meses van a ser determinantes en lo referido al futuro de la red de redes, habrá que observarlo con muchísima atención
 
 ### What is it?
 
