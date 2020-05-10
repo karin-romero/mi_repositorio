@@ -1,2 +1,2 @@
-# mi first repositorio
+# mi primer repositorio
 Repositorio Espol
