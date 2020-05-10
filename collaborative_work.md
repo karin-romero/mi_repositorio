@@ -36,11 +36,24 @@ La mayoría de las compañías puntocom incurrieron en pérdidas operativas neta
 ## Web 4.0 by Participant 3 : Francisco 
 
 ### Main features
- - Feature 1 ...
- - Feature 2 ...
- - ...
+La Web 4.0  ofrecerá un comportamiento más inteligente, predictivo, de esta con realizar la respectiva confirmación ejecutarán varias acciones que no devolverá lo solicitado.
+Varias empresas como Google, Microsoft o Facebook, entre otras, están desarrollando sistemas que mediante la utilización de Deep y Machine Leraning podrán procesar mayor información y ser mas intuitiva similar al cerebro humano.
+Ventajas
+	Conexión con personas y aplicaciones web de forma ubicua.
+	La voz como vehículo de intercomunicación para formar una web total.
+	La participación web es una necesidad; habilitación de compromiso con el cliente.
+	Disponibilidad.
+	La computadora de escritorio, telefono movil, tablets y iTV con realidad aumentada.
+	Multiplataforma.
+Desventajas
+	Problemas con la confidencialidad y sensibilidad de la información.
+	Vulnerabilidad de algunos equipos a ataques de virus, troyanos, espías, etc.
+	La dependencia del sistema a la conexión a internet
 
 ### Example of opportunities
+Redes neuronales artificiales, algunas aplicaciones como google fotos son capaces de filtrar las fotos y realizar búsquedas por palabras claves. Por ejemplo la palabra perro o color, detectará en qué imágenes aparece un perro o un determinado color; en el caso de personas u objetos, es capaz de diferenciar qué es un perro real o una mancha cuya silueta se parece a un perro.
+Avances en los asistentes de voz. Siri, Google Now o Cortana cada vez entienden de forma más precisa y correcta lo que les decimos. Ciertos teléfonos inteligentes siempre están escuchando para activarse en el momento que oigan “Oye, Sir” u “Hola, Google Now”.
+
 
 
 <<<<<<< HEAD
