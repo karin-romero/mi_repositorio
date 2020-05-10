@@ -30,6 +30,8 @@ En 1999, las acciones de Qualcommel valor aumentó un 2,619%, otras 12 acciones 
 
 A medida que se estabilizó el crecimiento en el sector tecnológico, las empresas se consolidaron; algunos, como Amazon.com , eBay y Google ganaron cuota de mercado y dominaron sus respectivos campos. Las empresas públicas más valiosas ahora están generalmente en el sector de la tecnología.
 
+La mayoría de las compañías puntocom incurrieron en pérdidas operativas netas, ya que gastaron mucho en publicidad y promociones para aprovechar los efectos de la red para construir una participación en el mercado o compartir la mente lo más rápido posible, utilizando los lemas "crecer a lo grande" y "crecer o perderse". Estas compañías ofrecieron sus servicios o productos de forma gratuita o con descuento con la expectativa de que podrían generar suficiente conocimiento de la marca para cobrar tarifas rentables por sus servicios en el futuro.
+
 
 ## Web 4.0 by Participant 3 : Francisco 
 
